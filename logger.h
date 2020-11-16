@@ -1,6 +1,6 @@
 /*
 	Simple logger by SanceiLaks
-	
+	https://github.com/Sanceilaks/simple-logger
 	
 	@date: 15.11.2020
 */
